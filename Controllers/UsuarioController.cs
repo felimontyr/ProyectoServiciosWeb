@@ -12,4 +12,3 @@ using System.Text.Json; // Importa el espacio de nombres para manejar JSON.
 using csharpapi.Services; // Importa los servicios del proyecto.
 using BCrypt.Net; // Importa el espacio de nombres para trabajar con BCrypt para hashing de contraseñas.
 
-//este sera el controlador de la entidad usuario
